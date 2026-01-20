@@ -8,3 +8,7 @@ The goal of the project is:
 - using branches
 - creating Pull Requests
 
+Technologies
+-Git, Github
+-Workflow:branches, pull requests
+-Status:learning project
