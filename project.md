@@ -12,3 +12,5 @@ Technologies
 -Git, Github
 -Workflow:branches, pull requests
 -Status:learning project
+Additional note:
+This change was made in the feature-readme branch.
